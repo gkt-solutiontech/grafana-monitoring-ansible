@@ -1,6 +1,0 @@
----
-- name: Install Grafana
-  hosts: app
-  become: true
-  roles:
-    - grafana
